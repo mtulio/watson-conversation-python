@@ -1,0 +1,3 @@
+flask
+watson-developer-cloud
+python-dotenv
